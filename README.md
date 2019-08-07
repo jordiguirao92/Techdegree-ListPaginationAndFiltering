@@ -1,2 +1,2 @@
 # Techdegree-ListPaginationAndFiltering
-Full Stack Developer Techdegree - Unit2
+Techdegree Full Stack JavaScript - Unit2
